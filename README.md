@@ -3,11 +3,12 @@ This notebook demonstrates how to do cross-validation (CV) with linear regressio
 
 This notebook is divided into the following parts:  
 
-Experiments to understand overfitting
-Building a linear regression model without cross-validation
-Problems in the current approach
-Cross-validation: A quick recap
-Cross-validation in sklearn:
-4.1 K-fold CV
-4.2 Hyperparameter tuning using CV
-4.3 Other CV schemes
+Experiments to understand overfitting  
+Building a linear regression model without cross-validation  
+Problems in the current approach  
+Cross-validation: A quick recap  
+Cross-validation in **sklearn**:  
+  
+4.1 K-fold CV  
+4.2 Hyperparameter tuning using CV  
+4.3 Other CV schemes  
